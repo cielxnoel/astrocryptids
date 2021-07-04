@@ -1,2 +1,2 @@
 # astrocryptids
-AstroCryptids are 16,180 algorithmic pixel art nfts stored on the Ethereum blockchain.
+Astrocryptids are cute and mysterious algorithmic pixel art sprites stored as nfts on the Ethereum blockchain. 
